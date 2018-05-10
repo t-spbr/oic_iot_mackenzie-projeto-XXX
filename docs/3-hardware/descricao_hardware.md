@@ -8,7 +8,7 @@
 
 * ESP 8266 WIFI MODULE
 
-## 2) Desenho Tinkercad ou Fritzing
+## 2) Desenho
 
 ![](t2.jpg)
 
