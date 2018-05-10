@@ -1,7 +1,7 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
 ## Turma 5K
-## Projeto: "Umidade do solo"
+## Projeto: "Umidade do solo com interface web"
 ## Integrantes do grupo:
 
 * Aluno 1
