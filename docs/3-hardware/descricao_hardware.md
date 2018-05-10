@@ -1,11 +1,12 @@
 # Descriçao do Hardware
 
-Deve conter:
-
-1) Lista de Peças (descrição e imagens, quando disponíveis)
+1) Lista de Peças
+Arduino Uno r3
+FC-28 Soil Hygrometer
+ESP 8266 WIFI MODULE
 
 2) Desenho Tinkercad ou Fritzing
+![](t2.png)
 
 3) Esquema eletrônico
-
-4) Materiais para confecção de caixas e consoles (ou arquivos para impressão 3D)
+![](t1.png)
