@@ -1,17 +1,17 @@
 # Descriçao do Hardware
 
-1) Lista de Peças
+## 1) Lista de Peças
 
-Arduino Uno r3
+* Arduino Uno r3
 
-FC-28 Soil Hygrometer
+* FC-28 Soil Hygrometer
 
-ESP 8266 WIFI MODULE
+* ESP 8266 WIFI MODULE
 
-2) Desenho Tinkercad ou Fritzing
+## 2) Desenho Tinkercad ou Fritzing
 
-![](t2.png)
+![](t2.jpg)
 
-3) Esquema eletrônico
+## 3) Esquema eletrônico
 
-![](t1.png)
+![](t1.jpg)
