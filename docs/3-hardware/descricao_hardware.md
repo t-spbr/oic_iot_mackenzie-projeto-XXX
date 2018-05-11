@@ -14,4 +14,4 @@
 
 ## 3) Esquema eletrônico
 
-![](t1.jpg)
+![](t1b.jpg)
