@@ -10,8 +10,8 @@
 
 ## 2) Desenho
 
-![](t2.jpg)
+![](tiago 04b.jpg)
 
 ## 3) Esquema eletrônico
 
-![](t1b.jpg)
+![](t1ago 04a.jpg)
