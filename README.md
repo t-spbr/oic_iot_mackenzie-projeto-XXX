@@ -4,8 +4,7 @@
 ## Projeto: "Umidade do solo com interface web"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
+* Tiago Angi Luiz
 
 _______________________________________
 Obs:
